@@ -1,0 +1,17 @@
+{
+  "author": "Evgeniy Efimov",
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "angular",
+    "pipe",
+    "local",
+    "pure"
+  ],
+  "name": "ngx-local-pipe",
+  "peerDependencies": {
+    "@angular/core": "^11.0.0"
+  },
+  "version": "1.0.0"
+}
