@@ -8,14 +8,17 @@
 ## Example
 
 component template
+
 ```
-firstArgument | ngxLocalPipe : componentMethod : secondArgument : thirdArgument ...etc
+componentMethod | ngxLocalPipe : firstArgument : secondArgument : thirdArgument ...etc
 ```
 
 component class
+
 ```
 public componentMethod(firstArgument, secondArgument, thirdArgument, ...) {
   ...
 }
 ```
+
 componentMethod should be a pure function, do not use `this` inside
