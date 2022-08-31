@@ -10,13 +10,14 @@
     "local",
     "pure"
   ],
+  "license": "MIT",
   "name": "ngx-local-pipe",
   "peerDependencies": {
-    "@angular/core": "^13.0.0"
+    "@angular/core": ">=12.2.0 <15.0.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/evgeniyefimov/ngx-local-pipe.git"
   },
-  "version": "2.0.1"
+  "version": "2.0.2"
 }
