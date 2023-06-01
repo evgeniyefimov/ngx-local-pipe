@@ -1,3 +1,7 @@
+# 2.1.0
+
+- **feat** support Angular 16.0.0
+
 # 2.0.3
 
 - **feat** support Angular versions 12.2.0, 13.0.0, 14.0.0, 15.0.0
