@@ -1,3 +1,7 @@
+# 2.3.0
+
+- **feat** support Angular 18.0.0
+
 # 2.2.0
 
 - **feat** support Angular 17.0.0
